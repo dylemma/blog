@@ -1,0 +1,3 @@
+## First!
+
+Welcome to *dylemma.io*. I'm Dylan, and I like to program. Mostly I like to work with [Scala](http://www.scala-lang.org/), and often times Javascript as well. Most of the stuff I do outside of work is little "hobby projects" and they tend to lead nowhere, as I am easily distracted. If I ever do finish something new, I'll be sure to post it here on my website for all to see. Otherwise, I'll just be writing down my thoughts and findings while I work on whatever I happen to be working on at the time.
