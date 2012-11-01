@@ -1,6 +1,18 @@
 {
 	"posts": [
 	{
+		"title": "Making Ace Editor Fill the Available Space",
+		"date": "2012-11-01T02:41:06Z"
+		"path": "articles/4-Ace Editor.md",
+		"ordinal": 4
+	}
+	{
+		"title": "Impatient",
+		"date": "2012-10-27T23:49:48Z",
+		"path": "articles/3-Impatient.md",
+		"ordinal": 3
+	},
+	{
 		"title": "Blogging Along",
 		"date": "2012-10-26T12:09:00Z",
 		"path": "articles/2-Blogging Along.md",
