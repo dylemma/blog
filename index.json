@@ -1,11 +1,17 @@
 {
 	"posts": [
 	{
+		"title": "Futures",
+		"date": "2012-12-06T03:40:39Z",
+		"path": "articles/5-Futures.md",
+		"ordinal": 5
+	},
+	{
 		"title": "Making Ace Editor Fill the Available Space",
 		"date": "2012-11-01T02:41:06Z"
 		"path": "articles/4-Ace Editor.md",
 		"ordinal": 4
-	}
+	},
 	{
 		"title": "Impatient",
 		"date": "2012-10-27T23:49:48Z",
