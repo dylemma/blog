@@ -1,4 +1,4 @@
-A while ago, I learned a new way of thinking about the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern). Basically, you start thinking about the Publisher of events as a *Collection* of events. Since I'm also thinking about Scala, this means that when I treate a Publisher as a Collection, I also expect that it will come with all sorts of convenient "combinators" (means of creating a transformed version of a collection). The act of attaching a Subscriber to the Publisher becomes the act of traversing the collection.
+A while ago, I learned a new way of thinking about the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern). Basically, you start thinking about the Publisher of events as a *Collection* of events. Since I'm also thinking about Scala, this means that when I treat a Publisher as a Collection, I also expect that it will come with all sorts of convenient "combinators" (means of creating a transformed version of a collection). The act of attaching a Subscriber to the Publisher becomes the act of traversing the collection.
 
 To demonstrate, here are a few "before" and "after" examples.
 
